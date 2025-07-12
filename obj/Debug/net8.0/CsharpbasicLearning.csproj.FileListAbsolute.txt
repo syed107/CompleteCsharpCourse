@@ -1,0 +1,14 @@
+D:\Project\CompleteCsharpLearning\CsharpbasicLearning\bin\Debug\net8.0\CsharpbasicLearning.exe
+D:\Project\CompleteCsharpLearning\CsharpbasicLearning\bin\Debug\net8.0\CsharpbasicLearning.deps.json
+D:\Project\CompleteCsharpLearning\CsharpbasicLearning\bin\Debug\net8.0\CsharpbasicLearning.runtimeconfig.json
+D:\Project\CompleteCsharpLearning\CsharpbasicLearning\bin\Debug\net8.0\CsharpbasicLearning.dll
+D:\Project\CompleteCsharpLearning\CsharpbasicLearning\bin\Debug\net8.0\CsharpbasicLearning.pdb
+D:\Project\CompleteCsharpLearning\CsharpbasicLearning\obj\Debug\net8.0\CsharpbasicLearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CompleteCsharpLearning\CsharpbasicLearning\obj\Debug\net8.0\CsharpbasicLearning.AssemblyInfoInputs.cache
+D:\Project\CompleteCsharpLearning\CsharpbasicLearning\obj\Debug\net8.0\CsharpbasicLearning.AssemblyInfo.cs
+D:\Project\CompleteCsharpLearning\CsharpbasicLearning\obj\Debug\net8.0\CsharpbasicLearning.csproj.CoreCompileInputs.cache
+D:\Project\CompleteCsharpLearning\CsharpbasicLearning\obj\Debug\net8.0\CsharpbasicLearning.dll
+D:\Project\CompleteCsharpLearning\CsharpbasicLearning\obj\Debug\net8.0\refint\CsharpbasicLearning.dll
+D:\Project\CompleteCsharpLearning\CsharpbasicLearning\obj\Debug\net8.0\CsharpbasicLearning.pdb
+D:\Project\CompleteCsharpLearning\CsharpbasicLearning\obj\Debug\net8.0\CsharpbasicLearning.genruntimeconfig.cache
+D:\Project\CompleteCsharpLearning\CsharpbasicLearning\obj\Debug\net8.0\ref\CsharpbasicLearning.dll
