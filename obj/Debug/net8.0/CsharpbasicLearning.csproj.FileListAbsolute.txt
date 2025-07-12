@@ -12,3 +12,4 @@ D:\Project\CompleteCsharpLearning\CsharpbasicLearning\obj\Debug\net8.0\refint\Cs
 D:\Project\CompleteCsharpLearning\CsharpbasicLearning\obj\Debug\net8.0\CsharpbasicLearning.pdb
 D:\Project\CompleteCsharpLearning\CsharpbasicLearning\obj\Debug\net8.0\CsharpbasicLearning.genruntimeconfig.cache
 D:\Project\CompleteCsharpLearning\CsharpbasicLearning\obj\Debug\net8.0\ref\CsharpbasicLearning.dll
+D:\Project\CompleteCsharpLearning\CsharpbasicLearning\obj\Debug\net8.0\CsharpbasicLearning.sourcelink.json
